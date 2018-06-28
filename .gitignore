@@ -5,3 +5,5 @@
 /initdb/data.sql
 /mrluisamador/assets
 /html/*
+
+.DS_Store
